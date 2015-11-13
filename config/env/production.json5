@@ -8,7 +8,7 @@
         port:3306
     },
     app: {
-        name: "M*EAN Stack Relational - Production"
+        name: "Placeme - Production"
     },
     // You will need to get your own client id's before this will work properly
     facebook: {

@@ -9,7 +9,7 @@
         port: 3306
     },
     app: {
-        name: "M*EAN Stack Relational - Test"
+        name: "Placeme - Test"
     },
     // You will need to get your own client id's before this will work properly
     facebook: {
